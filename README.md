@@ -7,7 +7,7 @@
 
 🚀 About Me
 
-🎓 B.Tech 1st Year Student (CSE)
+🎓 B.Tech 1st Year Student (CSE&DS)
 💻 Future AI Engineer | Web Developer | Programmer
 🌱 Currently Learning: Python, JavaScript, AI/ML
 🔥 Building Real-World Projects
@@ -97,3 +97,4 @@ If you like my work:
 «"Start from Zero, Build Your Empire 💻"»
 
 ---
+
